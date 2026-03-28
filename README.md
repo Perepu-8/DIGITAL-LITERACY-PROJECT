@@ -5,7 +5,7 @@
 * **Name:** PEREPU SOUMYA
 * **Registration No.:** 25BCE10126
 * **Academic Program:** B.Tech Computer Science and Engineering (Core)
-* **Academic Batch:** 2025-2029
+* **Academic Batch:** 2025-26
 * **Course Code:** CSE0001
 
 ---
